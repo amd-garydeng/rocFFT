@@ -140,7 +140,7 @@ Documentation for rocFFT is available at
 
 ### Additions
 
-* Added gfx1101 to default `AMDGPU_TARGETS`
+* Added gfx1151 to default `AMDGPU_TARGETS`
 
 ### Changes
 
