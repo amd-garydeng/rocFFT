@@ -7,7 +7,7 @@ Documentation for rocFFT is available at
 
 ### Additions
 
-*GFX1151 Support
+* GFX1151 Support
 
 
 ## rocFFT 1.0.29 for ROCm 6.2.1
