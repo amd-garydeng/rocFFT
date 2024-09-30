@@ -3,6 +3,13 @@
 Documentation for rocFFT is available at
 [https://rocm.docs.amd.com/projects/rocFFT/en/latest/](https://rocm.docs.amd.com/projects/rocFFT/en/latest/).
 
+## rocFFT 1.0.30 for ROCm 6.2.4
+
+### Additions
+
+*GFX1151 Support
+
+
 ## rocFFT 1.0.29 for ROCm 6.2.1
 
 ### Optimizations
