@@ -5,6 +5,14 @@ Documentation for rocFFT is available at
 
 ## rocFFT 1.0.30 for ROCm 6.2.4
 
+### Optimizations
+
+* Implemented 1D kernels for factorizable sizes > 1024 and < 2048.
+
+### Fixes
+
+* Fixed plan creation failure on some even-length real-complex transforms that use Bluestein's algorithm.
+
 ### Additions
 
 * GFX1151 Support
